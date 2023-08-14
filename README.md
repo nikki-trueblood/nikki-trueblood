@@ -1,4 +1,4 @@
-**Hello! 👋 I'm Nikki Trueblood, a UC Berkeley data science student who loves 🍵 matcha, 🧶 crochet, and the applications of data to 🏥 healthcare and 🌱 environmental problems!**
+**Hello! 👋 I'm Nikki Trueblood, a UC Berkeley data science student who loves 🍵 matcha, 🧶 crochet, and the applications of 📊 data to healthcare and environmental problems!**
 
 - 🐻 I'm a junior studying Data Science with a domain emphasis on Social Welfare, Health, and Poverty at UC Berkeley.
 - 📖 My favorite things about data science are storytelling with data and applying concepts in computing, statistics, and AI to real-world problems.
