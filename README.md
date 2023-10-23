@@ -4,7 +4,7 @@
 - 📖 My favorite things about data science are storytelling with data and applying concepts in computing, statistics, and AI to real-world problems.
 - 🧠 I recently learned probability theory, am currently learning Tableau, and hope to learn more about LLMs. 
 - 💬 I'm always up for discussing data ethics, the importance of DEI, and the best movies/tv shows.
-- 🎥 I love exploring new art mediums and have recently enjoyed filming and editing a video for my summer 2023 internship! Check it out here: [https://youtu.be/CrwOzu8RQb8](url).
+- 🎥 I love exploring new art mediums and have recently enjoyed filming and editing a video for my summer 2023 internship! Check it out here: https://youtu.be/CrwOzu8RQb8.
 - 📫 Feel free to reach out - I'd love to chat!
   - nikkitrueblood@berkeley.edu
   - https://www.linkedin.com/in/nikki-trueblood/ 
